@@ -8,7 +8,7 @@ We used R, a language common among statisticians, for this project. R is particu
 
 We experimented with three non-parametric models and one parametric model, fine-tuned based on 10-fold cross-validation (CV) results. While Gradient Boosting Machine (GBM) and Random Forests (RF) were top contenders in CV results, RF performed best on the holdout set.
 
-For classification, threshold selection is crucial. Off-the-shelf techniques like Youden's J were inadequate for this business problem. We tailored a cost function based on reasonable business assumptions, recognizing the higher cost of false negatives compared to false positives. This led to a decision threshold of 20%, ensuring high recall and capturing most potential churns.
+For classification, threshold selection is crucial. Off-the-shelf techniques like Youden's J were inadequate for this business problem. We tailored a cost function based on reasonable business assumptions, recognizing the higher cost of false negatives compared to false positives. This led to a decision threshold of 20%, ensuring high recall and capturing most potential churns. If we were to summarize the true business finding of our analysis in one line, it would have to be the one on slide 18 - "Using this model, **80%** of our potential churns can be saved using **only 25%** of our retention budget." How? Read on more in the slides deck to find out!
 
 ## Repository Contents
 
