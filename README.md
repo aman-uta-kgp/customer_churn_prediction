@@ -19,4 +19,6 @@ For classification, threshold selection is crucial. Off-the-shelf techniques lik
 Feel free to explore and provide feedback!
 
 
-**Note:** This project was part of a group class assignment, performed with my teammates [Muhammad Ibrahim](https://www.linkedin.com/in/m-ibrahim2094/) and [Tea McCormack](https://www.linkedin.com/in/teamccormack/).
+
+**Note:** This project was part of a group assignment within the coursework STA 380 Introduction to Machine Learning by [Professor Jared S. Murray](https://stat.utexas.edu/directory/jared-s-murray), and would not have been possible without my teammates [Muhammad Ibrahim](https://www.linkedin.com/in/m-ibrahim2094/) and [Tea McCormack](https://www.linkedin.com/in/teamccormack/).
+
