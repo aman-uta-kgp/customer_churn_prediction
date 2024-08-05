@@ -22,3 +22,7 @@ Feel free to explore and provide feedback!
 
 **Note:** This project was part of a group assignment within the coursework STA 380 Introduction to Machine Learning by [Professor Jared S. Murray](https://stat.utexas.edu/directory/jared-s-murray), and would not have been possible without my teammates [Muhammad Ibrahim](https://www.linkedin.com/in/m-ibrahim2094/) and [Tea McCormack](https://www.linkedin.com/in/teamccormack/).
 
+Dataset sources - 
+https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
